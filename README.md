@@ -1,16 +1,6 @@
-# Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
-Complete the tasks in the Python Notebook in this repository.
-Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
-
-## Rubric
-
-* (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
-* (Question 2) Article text is correct: 1 pt
-* (Question 3) Correct (or equivalent in the case of multiple tokens with same frequency) tokens printed: 1 pt
-* (Question 4) Correct (or equivalent in the case of multiple lemmas with same frequency) lemmas printed: 1 pt
-* (Question 5) Correct scores for first sentence printed: 2 pts (1 / function)
-* (Question 6) Histogram shown with appropriate labelling: 1 pt
-* (Question 7) Histogram shown with appropriate labelling: 1 pt
-* (Question 8) Thoughtful answer provided: 1 pt
-
+(5 points) What mechanism or a pipeline is built to accomplish a desired predictive application? You may use a diagram to explain your mechanism.
+(3 points) What are machine learning algorithms used to analyze your data?
+(4 points) Explain the training and testing process related to your data?
+(5 points) Explain the implementation and evaluation process of your analysis. Ensure to include your GitHub repository URLs of your source code in the references. 
+(3 points) What are the results of your analysis, and display them in an appropriate format?
