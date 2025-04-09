@@ -78,5 +78,11 @@ plt.legend()
 plt.grid()
 plt.show()
 
-print("The program has completed successfully.")
+# Visualizing the decision tree
+from sklearn.tree import plot_tree
+
+plt.figure(figsize=(10, 6))  # Adjust the figure size as needed
+plot_tree(clf, filled=True, feature_names=["Monetization Failure"], class_names=["0", "1"])
+plt.title("Decision Tree for Monetization Failure")
+plt.show()print("The program has completed successfully.")
 print("Thank you for using the Capstone Project!")
